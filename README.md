@@ -5,7 +5,7 @@
 src/
   task1_functions.js        # Task 1 - Functions, Arrow Functions & Control Flow
   task2_array_methods.js    # Task 2 - forEach(), map(), filter()
-  task3_async_demo.js       # Task 3 - supporting demo (Callback, Promise, Async/Await)
+
 screenshots/
   task1_functions_output.png
   task2_array_methods_output.png
